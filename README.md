@@ -1,1 +1,8 @@
 # Hemla
+<p align="center"><img src="Screen%20Shot%202018-02-03%20at%2016.57.47.png"></p>
+
+Hemla is not only the name of our diary app for kids, but also a buddy like no other. Hemla guides kids between the age of 7-12 years in the adventurous world of diaries, encouraging them to draw or write about the events, experiences and feelings they’ve encountered during the day. Or, if it happens to be a less-creative day, they can simply choose an emoticon or two to describe their mood. 
+
+Hemla takes good care of the diary: it is personal and private and only accessible via fingerprint recognition. It works offline and is basically just like an “old-school” diary, with the exception of having Hemla alongside to motivate, inspire, support and help. Hemla is a customisable character, so kids can make their Hemlas as unique as they want. Hemla listens to every single worry, thought, feeling or secret - you can tell Hemla anything in the whole wide world! Little by little Hemla learns more about the kid’s life, about family issues, friends, schools and hobbies, and will start to distinguish patterns by recognising words and terms or recurring mood emoticons. If Hemla notices something that seems worrying, it will encourage the child to talk to an adult about it: depending on the situation either to a parent, relative, teacher or even Bris. 
+
+Hemla could be launched e.g. in collaboration with Skolverket and Bris. One idea would be to incorporate it into school curriculum, using 10 minutes per day to write down about the previous day. This way Hemla can be used without possible concerns of parents finding about and restricting the use of Hemla, in the case of the child experiencing family violence or even sexual abuse at home.
